@@ -1,5 +1,3 @@
-# Maryam Choudhury's Data Science Portfolio
-
 ## Biographical Information
 
 - **Name:** Maryam Choudhury  
